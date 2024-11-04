@@ -1,0 +1,12 @@
+Day0_KO	Day0_KO-1
+Day0_KO	Day0_KO
+Day0_NT	Day0_NT-1
+Day0_NT	Day0_NT
+Day1_KO	Day1_KO-1
+Day1_KO	Day1_KO
+Day1_NT	Day1_NT-1
+Day1_NT	Day1_NT
+Day2_KO	Day2_KO-1
+Day2_KO	Day2_KO
+Day2_NT	Day2_NT-1
+Day2_NT	Day2_NT
